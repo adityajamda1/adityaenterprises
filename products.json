@@ -1,0 +1,117 @@
+
+{
+"products": [
+   {
+     "id": 1,
+     "name": "Samruddhi",
+     "category": "Godrej",
+     "kilogram": 50,
+     "image": "Samruddhi.godrej.jpg"
+   },
+   {
+     "id": 2,
+     "name": "MilkMore",
+     "category": "Godrej",
+     "kilogram": 50,
+     "image": "Milkmore.godrej.jpg"
+   },
+   {
+     "id": 3,
+     "name": "Hira",
+     "category": "Hindustan",
+     "kilogram": 50,
+     "image": "Hira.hindustan1.jpg"
+   },
+   {
+     "id": 4,
+     "name": "Indraneel",
+     "category": "Hindustan",
+     "kilogram": 50,
+     "image": "Indraneel.jpg"
+   },
+   {
+     "id": 5,
+     "name": "Pushkaraj",
+     "category": "Hindustan",
+     "kilogram": 50,
+     "image": "Pushkaraj-1.jpg"
+   },
+   {
+     "id": 6,
+     "name": "Bovino.calf.grw",
+     "category": "Godrej",
+     "kilogram": 50,
+     "image": "bovino-calf-grower.jpg"
+   },
+   {
+     "id": 7,
+     "name": "Bovino-Heifer",
+     "category": "Godrej",
+     "kilogram": 50,
+     "image": "bovino-heifer-feed.jpg"
+   },
+   {
+     "id": 8,
+     "name": "Double Can",
+     "category": "Godrej",
+     "kilogram": 45,
+     "image": "doublecan1.jpg"
+   },
+   {
+     "id": 9,
+     "name": "Milkgen5000",
+     "category": "Cargill",
+     "kilogram": 50,
+     "image": "milkgen5000.jpg"
+   },
+   {
+     "id": 10,
+     "name": "Milkgen8000",
+     "category": "Cargill",
+     "kilogram": 50,
+     "image": "milkgen8000.jpg"
+   },
+   {
+     "id": 11,
+     "name": "Milkgen10000",
+     "category": "Cargill",
+     "kilogram": 50,
+     "image": "milkgen10000.jpg"
+   },
+   {
+     "id": 12,
+     "name": "Govatsa-01",
+     "category": "Hindustan",
+     "kilogram": 25,
+     "image": "Govatsa-01.jpg"
+   },
+   {
+     "id": 13,
+     "name": "Govatsa-02",
+     "category": "Hindustan",
+     "kilogram": 50,
+     "image": "Govatsa-02.jpg"
+   },
+   {
+     "id": 14,
+     "name": "Govatsa-03",
+     "category": "Hindustan",
+     "kilogram": 50,
+     "image": "Govatsa-03.jpg"
+   },
+   {
+     "id": 15,
+     "name": "Indraneel",
+     "category": "Hindustan",
+     "kilogram": 59,
+     "image": "Indraneel59.jpg"
+   },
+   {
+     "id": 16,
+     "name": "Pushkaraj",
+     "category": "Hindustan",
+     "kilogram": 59,
+     "image": "Pushkaraj59.jpg"
+   }
+ ]
+}

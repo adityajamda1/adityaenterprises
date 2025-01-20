@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cattle Feeds Shop</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="button.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo" style="display: table-header-group;">
+            <h1 title="ADITYA">Aditya Enterpises</h1>
+        </div>
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="All/Search for products...">
+            <button onclick="searchProducts()"class="button-7">Search</button>
+        </div>
+
+        <div class="cart-display">
+            <a href="#" id="cart-button">Cart (0)</a>
+            <button class="button-57" onclick="viewCart()"><span>View Cart</span><span>Send to Whatsapp</span></button>
+    </header>
+
+    <!-- Product Categories Section -->
+    <section class="categories">
+        <h2>Cattle Feeds Category</h2>
+        <div class="category-list">
+            <button onclick="filterCategory('Hindustan')"class="button-89" role="Hindustan">Hindustan</button>
+            <button onclick="filterCategory('Godrej')"class="button-89" role="Godrej">Godrej</button>
+            <button onclick="filterCategory('Cargill')"class="button-89" role="Cargill">Cargill</button>
+        </div>
+    </section>
+
+    <!-- Product Listing Section -->
+    <section class="product-list" id="product-list">
+        <!-- Products will be dynamically inserted here -->
+    </section>
+    
+    <!-- Footer Section -->
+    <footer>
+        <p> WhatsApp NO.: 7058100493 </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
